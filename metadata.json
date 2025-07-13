@@ -1,7 +1,25 @@
 {
-  "name": "Bublik",
-  "symbol": "BLK",
-  "description": "Zero-calorie crypto donut 🥨",
-  "image": "https://cdn.creazilla.com/cliparts/1407977/bagel-clipart-lg.png",
-  "decimals": 9
+  "name": "OkakCat",
+  "symbol": "OKAK",
+  "description": "OkakCat Token - уникальная монета на Solana",
+  "image": "https://raw.githubusercontent.com/Shirobokov-aa/bublik-metadata/refs/heads/main/sticker.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/Shirobokov-aa/bublik-metadata/refs/heads/main/sticker.png"
+      }
+    ],
+    "category": "image"
+  }
 }
