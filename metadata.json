@@ -2,5 +2,11 @@
   "name": "OkakCat",
   "symbol": "OKAK",
   "description": "OkakCat Token - uniqueness at all times",
-  "image": "https://raw.githubusercontent.com/Shirobokov-aa/bublik-metadata/main/sticker.png"
+  "image": "https://raw.githubusercontent.com/Shirobokov-aa/bublik-metadata/main/sticker.png",
+  "external_url": "https://okak-lac.vercel.app/",
+  "extensions": {
+    "website": "https://okak-lac.vercel.app/",
+    "twitter": "https://x.com/1k_airdroptoken",
+    "telegram": "https://t.me/airdroptoken_1k"
+  }
 }
